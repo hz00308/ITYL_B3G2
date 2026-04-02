@@ -1,9 +1,9 @@
 <script setup>
-import TheWelcome from '../components/TheWelcome.vue'
+import psj from '@/components/psj.vue'
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <psj />
   </main>
 </template>
